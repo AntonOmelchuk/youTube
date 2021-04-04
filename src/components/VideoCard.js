@@ -23,8 +23,9 @@ const VideoCard = ({videoId, title, channel}) => {
       height: 100,
     },
     infoBlock: {
+      paddingTop: 3,
       paddingLeft: 7,
-      height: 99,
+      height: 90,
       justifyContent: 'space-between',
     },
     title: {

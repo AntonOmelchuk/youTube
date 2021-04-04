@@ -1,3 +1,4 @@
+/*eslint-disable */
 import React, {useState, useCallback, useEffect} from 'react';
 import {View, StyleSheet, Dimensions} from 'react-native';
 import YouTube from 'react-native-youtube';
